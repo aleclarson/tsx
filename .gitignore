@@ -27,3 +27,7 @@ dist
 
 # Link config
 link.config.json
+
+# Local dependencies
+.indo.json
+vendor
